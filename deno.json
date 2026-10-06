@@ -9,9 +9,9 @@
   },
   "fmt": {
     "lineWidth": 100,
-    "exclude": ["supabase/migrations/", "supabase/tests/"]
+    "exclude": ["supabase/migrations/", "supabase/tests/", "**/*.md"]
   },
   "lint": {
-    "exclude": ["supabase/migrations/", "supabase/tests/"]
+    "exclude": ["supabase/migrations/", "supabase/tests/", "**/*.md"]
   }
 }
